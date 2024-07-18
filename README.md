@@ -10,3 +10,9 @@ Neste desafio, fui responsável por modelar e diagramar a representação UML do
 - Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
 3. **Navegador na Internet**
 - Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
+
+### Diagrama UML  
+![Diagrama UML](https://github.com/rodwanz/Modelando_Iphone_com_UML/blob/main/Diagrama%20de%20classes.png)
+
+## Referência
+- https://web.dio.me/home
